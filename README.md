@@ -25,7 +25,7 @@ Bem-vindo ao projeto "Vai Descer", um bot divertido para Discord, criado por Vic
 ### Passos
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/vai-descer-bot.git
+   git clone https://github.com/Captando/vai-descer-bot.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
